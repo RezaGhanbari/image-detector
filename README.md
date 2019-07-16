@@ -1,2 +1,2 @@
 # image-detector
-Dockerized image detection api using golang 1.10.1
+Dockerized image detection api using golang 
